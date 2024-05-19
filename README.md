@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript and Ttkbootstrap 📖
 - 💞️ I’m looking to collaborate on idk 🤣
 - 📫 ***You Cant REACH ME !*** ✋
-- ⚡ Fun fact: ¯\_(ツ)_/¯
+- ⚡ Fun fact: 🥲
 
 <!---
 ImTemane/ImTemane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
