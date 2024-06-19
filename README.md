@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [hole4](https://github.com/ImTemane/hole4)
 
-- 🌱 I’m currently learning **Vue.js , ttkBootstrap**
+- 🌱 I’m currently learning **React , ttkBootstrap**
 
 - 👯 I’m looking to collaborate on **Nothing (for the moment)**
 
 - 💬 Ask me about **Python, Tkinter, HTML, CSS, Javascript & jQuery**
 
-- 📫 How to reach me **YOU CANT !!!**
+- 📫 How to reach me : **YOU CANT !!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
