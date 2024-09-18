@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [hole4](https://github.com/ImTemane/hole4)
 
-- 🌱 I’m currently learning **Next.js , PostgreSQL, TailwindCSS**
+- 🌱 I’m currently learning **SolidJS**
 
 - 👯 I’m looking to collaborate on **nothing (for the moment)**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me : **you cant !**
 
-- ⚡ Fun fact **More PAIN = More GAIN**
+- ⚡ **More PAIN = More GAIN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
