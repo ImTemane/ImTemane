@@ -9,5 +9,5 @@
 
 - 💬 Ask me about **HTML, CSS, GIT**
 
-- ⚡ **More PAIN = More GAIN**
+- ⚡ _N  o   P  a  i  n,  N  o   G  a  i  n_
 
